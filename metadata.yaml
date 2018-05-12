@@ -1,0 +1,27 @@
+_repo: The-Forest-KingWild-Hunter-of-the-Adaca_24417
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 24417-h/images/cover.png
+creator:
+  author:
+    agent_name: Keyes, Hervey
+    gutenberg_agent_id: '26469'
+    url: http://www.gutenberg.org/2009/agents/26469
+description: ''
+gutenberg_issued: '2008-01-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24417'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PS'
+- !lcsh 'United States -- History -- Colonial period, ca. 1600-1775 -- Fiction'
+title: 'The Forest King
+
+  Wild Hunter of the Adaca'
+url: http://www.gutenberg.org/ebooks/24417
